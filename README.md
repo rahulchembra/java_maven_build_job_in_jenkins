@@ -14,7 +14,8 @@ java_maven_build_job_in_jenkins
 │   ├── validate.xml
 │   ├── compile.xml
 │   └── package.xml
-└── screenshots/       
+└── screenshots/
+|---target/
 
 ## 🛠️ Tools & Technologies Used
 - **Java** – Programming language for application
