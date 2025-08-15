@@ -4,7 +4,7 @@ This project is a simple Java application built using **Maven** and automated wi
 
 ## 📂 Project Structure
 ```
-hello-java-maven/
+java_maven_build_job_in_jenkins
 ├── pom.xml                
 ├── src/
 │   └── main/
