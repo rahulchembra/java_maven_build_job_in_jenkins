@@ -42,5 +42,5 @@ This is achieved by configuring **Post-build Actions** in each job:
 After the pipeline runs successfully, the packaged JAR file is located in:
 ```
 /var/lib/jenkins/workspace/<job_name>/target/
-```
+
 
